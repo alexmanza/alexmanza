@@ -1,4 +1,12 @@
-### Hi there 👋
+#LEARNING-GITHUB 
+##UwU
+
+Un ejemplo de un repositorio para aprender sobre github
+
+-manzana
+-aguacate
+-piña
+
 
 <!--
 **alexmanza/alexmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
