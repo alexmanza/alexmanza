@@ -13,6 +13,9 @@ Un ejemplo de un repositorio para aprender sobre github
 
 
 [Este es mi instagram](https://www.instagram.com/_alex_mr11/)
+
+
+Aqui pondremos uno parrafos con algunas `variables`.
 <!--
 **alexmanza/alexmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
