@@ -16,6 +16,19 @@ Un ejemplo de un repositorio para aprender sobre github
 
 
 Aqui pondremos uno parrafos con algunas `variables`.
+
+
+```html
+
+<p>un parrafo de ejemplo</p>
+
+```   
+``` JavaScript
+
+let num = Math.random();
+
+```
+  
 <!--
 **alexmanza/alexmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
