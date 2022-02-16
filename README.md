@@ -1,13 +1,13 @@
-#LEARNING-GITHUB 
-##UwU
+# LEARNING-GITHUB 
+## UwU
 
 Un ejemplo de un repositorio para aprender sobre github
 
--manzana
--aguacate
--piña
-
-
+- Ejemplo 1
+- Ejemplo 2
+- Ejemplo 3
+  - Ejemplo 4
+  1. Ahora con letras
 <!--
 **alexmanza/alexmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
